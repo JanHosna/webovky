@@ -1,4 +1,4 @@
-# werrbovky
+# werrbofvky
 
-Webovky projekt jen tak.
+Weffbovky projekt jen tak.
 :)
