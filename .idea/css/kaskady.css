@@ -5,8 +5,15 @@ body {
     background-color: aqua;
     margin: 0;
     padding: 0;
+
     
 }
+
+.wrap {
+    min-height: calc(100vh - 115px);
+
+}
+
 
 /* HEADER */
 /*        */
@@ -31,8 +38,25 @@ body {
     text-align: center;
     background: blue;
     width: 100%;
-    padding: 10px;
+    padding: 0;
 
 
 }
+#main-nav ul li a{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    background: yellow;
+    width: 100%;
+}
+#footer{
+
+
+    padding: 15px 0;
+    text-align: center;
+}
+
+
+
+
 
